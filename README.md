@@ -1,0 +1,2 @@
+# E-commerce-Sales-and-Customer-Behaviour-Analysis-Dashboard-using-MySQL-and-Python
+End-to-end E-commerce Data Pipeline &amp; Analytics. Features a Python-based ETL process to migrate 7 relational CSV datasets (Customers, Orders, Payments, etc.) into MySQL. Includes advanced SQL analysis for business KPIs: retention rates, sales trends, and customer segmentation using Window Functions, integrated with Seaborn visualizations.
